@@ -5,4 +5,4 @@ Word frequencies in /r/The_Donald vs /r/ChapoTrapHouse (demo)
 
 Runs in Google Colab. You need to authorise BigQuery to access the data.
 
-Output is visualised using [scattertext](https://github.com/JasonKessler/scattertext/), interactive version [here](https://rawgit.com/AleksiKnuutila/trumpvschapo/blob/master/scattertext-reddit.html).
+Output is visualised using [scattertext](https://github.com/JasonKessler/scattertext/), interactive version [here](https://rawcdn.githack.com/AleksiKnuutila/trumpvschapo/4def5141179e0a9a81b3d35c3fb6d4179a410e03/scattertext-reddit.html).
